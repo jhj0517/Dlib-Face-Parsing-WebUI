@@ -4,8 +4,12 @@
 
 This is Web-UI that uses the Dlib model to parse a facial image into individual parts, saves each part as a separate image, and generates a layered .tif file (which can be opened in GIMP).
 
-# Installation and Running (on Windows)
+If you want to see the example results, please check the `example` folder.
 
+
+# Installation and Running 
+
+### (on Windows)
 To install and run Dlib Face Parsing WebUI, follow these simple steps:
 
 1. Ensure that Python is installed on your computer. If you don't have Python, you can download it from the official website at https://www.python.org/downloads/.
@@ -13,6 +17,11 @@ To install and run Dlib Face Parsing WebUI, follow these simple steps:
 3. Run `launch.bat`
 4. Open your web browser and go to `http://localhost:7860`
 5. Enter the path to the image file and the path to the folder where the results will be saved, and then click the `RUN` button.
+
+### (on Linux)
+1. Run `install.sh` 
+2. Run `launch.sh`
+3. Open your web browser and go to `http://localhost:7860`
 
 ## Support
 
