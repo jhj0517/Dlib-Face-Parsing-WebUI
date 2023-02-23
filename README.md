@@ -6,6 +6,9 @@ This is Web-UI that uses the Dlib model to parse a facial image into individual 
 
 If you want to see the example results, please check the `example` folder.
 
+When opening .tif files with GIMP, make sure that "Open pages as layers" is checked!
+
+![Dlib Face Parsing WebUI](https://raw.githubusercontent.com/jhj0517/Dlib-Face-Parsing-WebUI/master/example/open%20page%20as%20layers.png)
 
 # Installation and Running 
 
