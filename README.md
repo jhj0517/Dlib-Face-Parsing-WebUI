@@ -4,11 +4,11 @@
 
 This is Web-UI that uses the Dlib model to parse a facial image into individual parts, saves each part as a separate image, and generates a layered .tif file (which can be opened in GIMP).
 
-If you want to see the example results, please check the `example` folder.
-
 When opening .tif files with GIMP, make sure that "Open pages as layers" is checked!
 
 ![Dlib Face Parsing WebUI](https://raw.githubusercontent.com/jhj0517/Dlib-Face-Parsing-WebUI/master/example/open%20page%20as%20layers.png)
+
+If you want to see the example results, please check the `example` folder.
 
 # Installation and Running 
 
